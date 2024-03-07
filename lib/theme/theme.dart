@@ -15,7 +15,7 @@ const lightColorScheme = ColorScheme(
   surface: Color(0xFFF9FAF3),
   onSurface: Color(0xFF1A1C18),
 );
-// ColorScheme
+
 const darkColorScheme = ColorScheme(
   brightness: Brightness.dark,
   primary: Color.fromARGB(255, 65, 161, 173),
